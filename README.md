@@ -16,8 +16,7 @@ Applicants of various backgrounds are welcome with majority of requirements are 
 ------------------
 Candidates who has secured fellowships from the State/Central Government agencies such as BINC, CSIR-UGC, and DBT will be preferred. 
 
-Send your CVs to: abhishek [at] ibioinformatics [dot] org 
------------------
+Send your CVs to: abhishek_[at]_ibioinformatics_[dot]_org 
 with Subject: "Ph.D. Studentships in Computational Biology" 
 
 Comment: Due to COVID-19 pandemic, Initially work from home will be allowed.
