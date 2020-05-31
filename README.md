@@ -1,4 +1,4 @@
-# PhDpositionComputationalGenomeBiology
+# PhD position Computational Genome Biology
 PhD position in computational Genome Biology
 
 Ph.D. Studentships in Computational Biology
@@ -17,3 +17,8 @@ Candidates who has secured fellowships from the State/Central Government agencie
 Send your CVs to: abhishek [at] ibioinformatics [dot] org 
 with Subject: "Ph.D. Studentships in Computational Biology" 
 Comment: Due to COVID-19 pandemic, Initially work from home will be allowed.
+
+
+---------------------
+About 
+Computational Genome Biology team is focusing on 1. Research Area #1: Application of genomics to human diseases 2. Research Area #2: Genomics of drug-like molecules from fungi 3. Research Area #3: Evolutionary Genomics 4. Research Area #4: Biodiversity Genomics 5. Research Area #4: Viral Genomics starting with SARS-CoV-2 We are constantly looking for strong candidates to focus one of these areas.
