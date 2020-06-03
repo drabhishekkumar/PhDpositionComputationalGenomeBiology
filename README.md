@@ -35,7 +35,7 @@ We are constantly looking for strong candidates to focus one of these areas.
 ----------------------
 
 We receive several applications in a day. Hence, an excellent email is top priority for us. 
-Only very good email and a strong applicati with excellent cover letter are screened initially round of discussion. 
+Only very good email and a strong application with excellent cover letter are screened initially round of discussion. 
 
 
 We have listed suggestions for improvements of your application
@@ -43,7 +43,7 @@ We have listed suggestions for improvements of your application
 1) Tips for apply for a Ph.D. 
 https://www.sciencemag.org/careers/2018/09/applying-phd-these-10-tips-can-help-you-succeed
 
-2) How to write email to a scientists/professors by undergraduates or graduate students 
+2) How to write an email to scientists/professors by undergraduates or graduate students 
 https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld
 
 3) Guide for Email etiquette
