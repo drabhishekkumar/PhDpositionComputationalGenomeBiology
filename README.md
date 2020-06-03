@@ -29,7 +29,7 @@ Computational Genome Biology team is focusing on
 4. Research Area #4: Biodiversity Genomics 
 5. Research Area #5: Viral Genomics starting with SARS-CoV-2 
 
-We are constantly looking for strong candidates to focus one of these areas.
+We are constantly looking for strong candidates to focus on one of these areas.
 
 ----------------------
 
