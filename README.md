@@ -13,10 +13,12 @@ Applicants of various backgrounds are welcome with majority of requirements are 
 7.	Good standing of human diseases 
 8.	Experience in NGS data analysis
 ------------------
-Candidates who have secured fellowships from the State/Central Government agencies such as BINC, CSIR-UGC, and DBT will be preferred. 
+Candidates who have secured fellowships from the State/Central Government agencies such as CSIR/UGC/DBT will be preferred. 
 
 Send your CVs to: abhishek_[at]_ibioinformatics_[dot]_org 
 with Subject: "Ph.D. Studentships in Computational Biology" 
++ fill in this form:-
+https://tinyurl.com/IOBPhDRes2020
 
 Comment: Due to COVID-19 pandemic, Initially work from home will be allowed.
 
