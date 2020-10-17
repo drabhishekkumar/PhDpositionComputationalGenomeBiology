@@ -28,17 +28,17 @@ Applicants of various backgrounds are welcome with majority of requirements are 
 
 Candidates who have secured fellowships from the State/Central Government agencies such as CSIR/UGC/DBT will be preferred. 
 
-### (A) Send your Application as single PDF
+### Step (A): Send your Application as single PDF
 Please Send your CVs to: abhishek_[at]_ibioinformatics_[dot]_org 
 with Subject: "PhD positions in Computational Genome Biology" 
 
 ### +
 ---------------------
-### (B) Online Application form
+### Step (B): Online Application form
 Please fill in this form:-
 https://tinyurl.com/IOBPhDRes2020
 
-### A+B are absolutely necessary for your application given consideration
+### Both steps are absolutely necessary and post these two steps only for your application is complete & evaluated.
 ---------------------
 ### Tips for Application
 We receive several applications in a day. Hence, an excellent email is top priority for us. 
