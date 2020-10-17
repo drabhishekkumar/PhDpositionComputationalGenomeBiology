@@ -5,14 +5,14 @@ Applications are invited from talented and passionate candidates to work on seve
 
 ---------------------
 ### Research Areas
-Computational Genome Biology team is focusing on 
-1. Research Area #1: Application of genomics to human diseases 
-2. Research Area #2: Genomics of drug-like molecules from fungi 
-3. Research Area #3: Evolutionary Genomics 
-4. Research Area #4: Biodiversity Genomics 
-5. Research Area #5: Viral Genomics starting with SARS-CoV-2 
+###### Computational Genome Biology team is focusing on 
+##### 1. Research Area #1: Application of genomics to human diseases 
+##### 2. Research Area #2: Genomics of drug-like molecules from fungi 
+##### 3. Research Area #3: Evolutionary Genomics 
+##### 4. Research Area #4: Biodiversity Genomics 
+##### 5. Research Area #5: Viral Genomics starting with SARS-CoV-2 
 
-We are constantly looking for strong candidates to focus on one of these areas.
+###### We are constantly looking for strong candidates to focus on one of these areas.
 
 ---------------------
 ### Prerequisites
@@ -38,7 +38,7 @@ with Subject: "PhD positions in Computational Genome Biology"
 Please fill in this form:-
 https://tinyurl.com/IOBPhDRes2020
 
-### Both steps are absolutely necessary and post these two steps only for your application is complete & evaluated.
+##### Both steps are absolutely necessary and post these two steps only for your application is complete & evaluated.
 ---------------------
 ### Tips for Application
 We receive several applications in a day. Hence, an excellent email is top priority for us. 
@@ -47,15 +47,15 @@ Only very good email and a strong application with excellent cover letter are sc
 
 We have listed suggestions for improvements of your application
 
-#### 1) Tips for apply for a Ph.D. 
+##### 1) Tips for apply for a Ph.D. 
 https://www.sciencemag.org/careers/2018/09/applying-phd-these-10-tips-can-help-you-succeed
 
-#### 2) How to write an email to scientists/professors by undergraduates or graduate students 
+##### 2) How to write an email to scientists/professors by undergraduates or graduate students 
 https://www.sciencemag.org/careers/2015/05/dear-dr-neufeld
 
-#### 3) Guide for Email etiquette
+##### 3) Guide for Email etiquette
 https://www.sciencemag.org/careers/2020/02/scientist-s-guide-email-etiquette
 
 -----------
-### Comments: 
+##### Comments: 
 Due to COVID-19 pandemic, Initially work from home will be allowed.
