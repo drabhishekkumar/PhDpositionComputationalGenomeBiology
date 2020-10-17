@@ -1,6 +1,18 @@
-# PhD positions in Computational Genome Biology
+# Ph.D. positions in Computational Genome Biology
 
 Applications are invited from talented and passionate candidates to work on several next generation sequencing (NGS)-based research studies as well as proteomic studies and pursue their Ph.D. in Computational Biology at the Institute of Bioinformatics (IOB) in Bangalore (http://www.ibioinformatics.org). The selected candidates will be enrolled for their Ph.D. at Manipal Academy of Higher Education (MAHE), Manipal. The thrust areas of IOB include infectious diseases, neurological disorders, cancer biology and computational biology. The selected candidates will undergo excellent training in next generation sequencing methods as well as Big Data analysis with the opportunity to work on data generated from next generation sequencing methods such as whole genome/exome sequencing, transcriptome sequencing and small RNA sequencing. IOB is also internationally known for mass spectrometry-based proteomics, which provides opportunities to work on multi-omics studies such as proteogenomics, metabolomics, pathways and interaction networks. 
+
+
+---------------------
+### Research Areas
+Computational Genome Biology team is focusing on 
+1. Research Area #1: Application of genomics to human diseases 
+2. Research Area #2: Genomics of drug-like molecules from fungi 
+3. Research Area #3: Evolutionary Genomics 
+4. Research Area #4: Biodiversity Genomics 
+5. Research Area #5: Viral Genomics starting with SARS-CoV-2 
+
+We are constantly looking for strong candidates to focus on one of these areas.
 
 ---------------------
 ### Prerequisites
@@ -26,17 +38,7 @@ with Subject: "PhD positions in Computational Genome Biology"
 Please fill in this form:-
 https://tinyurl.com/IOBPhDRes2020
 
----------------------
-### Research Areas
-Computational Genome Biology team is focusing on 
-1. Research Area #1: Application of genomics to human diseases 
-2. Research Area #2: Genomics of drug-like molecules from fungi 
-3. Research Area #3: Evolutionary Genomics 
-4. Research Area #4: Biodiversity Genomics 
-5. Research Area #5: Viral Genomics starting with SARS-CoV-2 
-
-We are constantly looking for strong candidates to focus on one of these areas.
-
+### A+B are absolutely necessary for your application given consideration
 ---------------------
 ### Tips for Application
 We receive several applications in a day. Hence, an excellent email is top priority for us. 
